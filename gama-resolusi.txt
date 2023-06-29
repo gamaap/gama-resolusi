@@ -1,7 +1,7 @@
 RESOLUSI GAMA TAHUN INI
-- Konsisten belajar programming dari FUNDAMENTAL terlebih dahulu
 - Menguasai fundamental HTML, CSS dan JavaScript
 - Mempelajari beberapa framework front-end
 - Buat portfolio pertama
 - Buat hobi baru menulis di Medium
 - Share ilmu yang sudah dikuasai dalam bentuk media apapun
+- Mempelajari back-end roadmap
