@@ -3,3 +3,5 @@ RESOLUSI GAMA TAHUN INI
 - Menguasai fundamental HTML, CSS dan JavaScript
 - Mempelajari beberapa framework front-end
 - Buat portfolio pertama
+- Buat hobi baru menulis di Medium
+- Share ilmu yang sudah dikuasai dalam bentuk media apapun
