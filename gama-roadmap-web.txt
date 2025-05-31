@@ -2,5 +2,7 @@ RENCANA GAMA UNTUK BELAJAR WEB DEVELOPMENT
 - HTML
 - CSS
 - JavaScript
+  - Basic & Advanced Topics
+  - Framework
 - PHP
 - Laravel
