@@ -6,3 +6,4 @@ RENCANA GAMA UNTUK BELAJAR WEB DEVELOPMENT
   - Framework
 - PHP
 - Laravel
+- MERN
