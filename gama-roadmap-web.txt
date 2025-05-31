@@ -5,6 +5,7 @@ RENCANA GAMA UNTUK BELAJAR WEB DEVELOPMENT
   - Basic & Advanced Topics
   - Framework
     - React
+    - Vue
 - PHP
   - Laravel
   - Symphony
