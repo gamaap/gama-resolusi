@@ -4,6 +4,9 @@ RENCANA GAMA UNTUK BELAJAR WEB DEVELOPMENT
 - JavaScript
   - Basic & Advanced Topics
   - Framework
+    - Angular
+    - React
 - PHP
-- Laravel
-- MERN
+  - Symphony
+- MEAN
+- Python
